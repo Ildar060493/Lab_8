@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@expo/metro-runtime": "~4.0.1",
+    "axios": "^1.8.4",
+    "expo": "^52.0.41",
+    "react-dom": "18.3.1",
+    "react-native": "^0.78.1",
+    "react-native-web": "~0.19.13"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.20",
+    "metro": "^0.82.1",
+    "metro-config": "^0.82.1",
+    "metro-react-native-babel-preset": "^0.77.0",
+    "metro-resolver": "^0.82.1",
+    "metro-source-map": "^0.82.1",
+    "typescript": "^5.3.3"
+  }
+}
